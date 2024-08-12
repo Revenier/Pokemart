@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402079421297",
+    "project_id": "pokemart-c43b9",
+    "storage_bucket": "pokemart-c43b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402079421297:android:9b572a609fafb0e40f1cd0",
+        "android_client_info": {
+          "package_name": "com.example.pokemart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaiyFCtCLc34mC7e3RbU30oHTcAtaNrMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
